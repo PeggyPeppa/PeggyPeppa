@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 Work on automation driving
-- 🌱 Study in THU
+
+
 
 [![MintGreen-hub's github stats](https://i-github-readme-stats.vercel.app/api?username=MintGreen-hub&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
